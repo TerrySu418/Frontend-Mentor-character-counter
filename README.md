@@ -23,12 +23,12 @@ Text Analyzer is a real-time text analysis tool that provides instant metrics on
 
 ## Screenshot
 
-![Project Screenshot](/public/Screenshot.png)
+![Project Screenshot](./public/Screenshot.png)
 
 ## Links
 
-- [Live Site URL](https://yourusername.github.io/text-analyzer)
-- [Repository URL](https://github.com/yourusername/text-analyzer)
+- [Live Site URL](https://terrysu418.github.io/Frontend-Mentor-character-counter/)
+- [Repository URL](https://github.com/TerrySu418/Frontend-Mentor-character-counter)
 
 ## Built With
 
@@ -56,4 +56,4 @@ Text Analyzer is a real-time text analysis tool that provides instant metrics on
 - Yellow (#EAB308) - Word count section
 - Orange (#F97316) - Sentence count section
 - Dynamic theming with light and dark mode support
-"# Frontend-Mentor-character-counter" 
+  "# Frontend-Mentor-character-counter"
